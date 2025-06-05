@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Transportasi Kota" id="W3u0_mieTxErS4jbLNX1">
-    <mxGraphModel dx="1348" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         <mxCell id="Dmbh_XmSGK8V9Am4ENj1-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Dmbh_XmSGK8V9Am4ENj1-25">
           <mxGeometry width="430" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-27" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Dmbh_XmSGK8V9Am4ENj1-26">
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-27" value="&amp;nbsp;vertex" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Dmbh_XmSGK8V9Am4ENj1-26">
           <mxGeometry width="143" height="43" as="geometry">
             <mxRectangle width="143" height="43" as="alternateBounds" />
           </mxGeometry>
@@ -277,6 +277,12 @@
           <mxGeometry x="287" width="143" height="43" as="geometry">
             <mxRectangle width="143" height="43" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-72" value="Matriks Ketetanggaan:&#xa;   A  B  C  D  E  F  G  H  I  J&#xa;A  0  1  1  0  0  0  0  0  0  0&#xa;B  0  0  0  1  0  0  0  0  0  0&#xa;C  0  0  0  1  1  0  0  0  0  0&#xa;D  0  0  0  0  0  1  0  0  0  0&#xa;E  0  0  0  0  0  1  1  0  0  0&#xa;F  0  0  0  0  0  0  0  1  0  0&#xa;G  0  0  0  0  0  0  0  0  1  0&#xa;H  0  0  0  0  0  0  0  0  0  1&#xa;I  0  0  0  0  0  0  0  0  0  1&#xa;J  0  0  0  0  0  0  0  0  0  0" style="text;whiteSpace=wrap;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="820" y="740" width="640" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 23px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Baris = asal&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Kolom = Tujuan&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="750" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
