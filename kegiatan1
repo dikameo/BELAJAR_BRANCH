@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
-  <diagram name="Halaman-1" id="W3u0_mieTxErS4jbLNX1">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Transportasi Kota" id="W3u0_mieTxErS4jbLNX1">
+    <mxGraphModel dx="1866" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-1" value="A" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-2" value="B" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-3" value="C" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-4" value="D" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-5" value="E" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-6" value="F" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-7" value="G" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-8" value="H" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-9" value="I" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-10" value="J" style="shape=ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-1" target="Dmbh_XmSGK8V9Am4ENj1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-1" target="Dmbh_XmSGK8V9Am4ENj1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-2" target="Dmbh_XmSGK8V9Am4ENj1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-3" target="Dmbh_XmSGK8V9Am4ENj1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-3" target="Dmbh_XmSGK8V9Am4ENj1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-4" target="Dmbh_XmSGK8V9Am4ENj1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-5" target="Dmbh_XmSGK8V9Am4ENj1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-5" target="Dmbh_XmSGK8V9Am4ENj1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-6" target="Dmbh_XmSGK8V9Am4ENj1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-7" target="Dmbh_XmSGK8V9Am4ENj1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-8" target="Dmbh_XmSGK8V9Am4ENj1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Dmbh_XmSGK8V9Am4ENj1-9" target="Dmbh_XmSGK8V9Am4ENj1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dmbh_XmSGK8V9Am4ENj1-24" value="&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;&lt;strong&gt;10 Titik Perhentian (Vertex)&lt;/strong&gt;: A, B, C, D, E, F, G, H, I, J.&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;12 Jalur Transportasi (Edge)&lt;/strong&gt;:&lt;br&gt;&lt;ol dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;A → B&lt;/li&gt;&lt;br&gt;&lt;li&gt;A → C&lt;/li&gt;&lt;br&gt;&lt;li&gt;B → D&lt;/li&gt;&lt;br&gt;&lt;li&gt;C → D&lt;/li&gt;&lt;br&gt;&lt;li&gt;C → E&lt;/li&gt;&lt;br&gt;&lt;li&gt;D → F&lt;/li&gt;&lt;br&gt;&lt;li&gt;E → F&lt;/li&gt;&lt;br&gt;&lt;li&gt;E → G&lt;/li&gt;&lt;br&gt;&lt;li&gt;F → H&lt;/li&gt;&lt;br&gt;&lt;li&gt;G → I&lt;/li&gt;&lt;br&gt;&lt;li&gt;H → J&lt;/li&gt;&lt;br&gt;&lt;li&gt;I → J&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3 dir=&quot;auto&quot;&gt;Langkah 2: Notasi Graph G = (V, E)&lt;/h3&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;V (Vertex)&lt;/strong&gt;: Himpunan titik perhentian = {A, B, C, D, E, F, G, H, I, J}&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;E (Edge)&lt;/strong&gt;: Himpunan jalur transportasi = {(A, B), (A, C), (B, D), (C, D), (C, E), (D, F), (E, F), (E, G), (F, H), (G, I), (H, J), (I, J)}&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="560" height="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
